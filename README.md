@@ -1,3 +1,10 @@
+<table>
+<tr>
+<td valign="center" width="120">
+  <img src="https://github.com/ayushraj5634.png" width="100" style="border-radius: 50%;" alt="Ayush Raj" />
+</td>
+<td valign="top">
+
 # Ayush Raj
 
 **Software Engineer**
@@ -6,6 +13,10 @@ A software engineer focused on building scalable, real-world applications. Exper
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayushraj5634-181717?style=flat-square&logo=github)](https://github.com/ayushraj5634)
 [![Email](https://img.shields.io/badge/Email-ayushraj5634@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushraj5634@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
