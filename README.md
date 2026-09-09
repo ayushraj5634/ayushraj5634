@@ -67,9 +67,9 @@ Demonstrates the Stack data structure applied to real-world banking — every tr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushraj5634&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushraj5634&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj5634&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj5634&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170" />
 
 </div>
 
